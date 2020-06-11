@@ -7,3 +7,5 @@ Keyboard shortcuts & websites:-
 - 12 Brackets Extensions That Will Make Your Life Easier: https://www.webfx.com/blog/web-design/brackets-extensions/
 
 - https://codepen.io/snjy07/pen/XWWLvzr
+
+- https://www.avexdesigns.com/blog
